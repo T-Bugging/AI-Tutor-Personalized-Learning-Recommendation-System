@@ -1,5 +1,4 @@
-# AI Math Tutor - Complete Integration
-
+# AI Math Tutor 
 This project integrates a React frontend quiz application with a Python ML model to provide personalized learning recommendations.
 
 ## 🚀 Quick Start
