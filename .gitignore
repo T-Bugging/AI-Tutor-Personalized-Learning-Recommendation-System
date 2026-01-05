@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML artifacts
+*.pkl
+*.csv
+
+# Environment
+.env
+Topic.txt

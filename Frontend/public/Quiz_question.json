@@ -1,0 +1,1091 @@
+[
+  {
+    "skill_name": "Box and Whisker",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "BW_1",
+        "question_text": "What does the median represent in a box-and-whisker plot?",
+        "answer_type": "choose_1",
+        "options": ["The average", "The middle value", "The range", "The maximum"],
+        "correct_answer": "The middle value"
+      },
+      {
+        "question_id": "BW_2",
+        "question_text": "Which part of a box plot represents the interquartile range?",
+        "answer_type": "choose_1",
+        "options": ["Whiskers", "Entire plot", "The box", "Median line"],
+        "correct_answer": "The box"
+      },
+      {
+        "question_id": "BW_3",
+        "question_text": "If Q1 = 10 and Q3 = 30, what is the interquartile range?",
+        "answer_type": "fill_in",
+        "correct_answer": 20
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Circle Graph",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "CG_1",
+        "question_text": "What is another name for a circle graph?",
+        "answer_type": "choose_1",
+        "options": ["Bar graph", "Pie chart", "Histogram", "Line graph"],
+        "correct_answer": "Pie chart"
+      },
+      {
+        "question_id": "CG_2",
+        "question_text": "If a section of a circle graph is 90°, what fraction of the whole does it represent?",
+        "answer_type": "fill_in",
+        "correct_answer": 0.25
+      },
+      {
+        "question_id": "CG_3",
+        "question_text": "What is the total number of degrees in a circle graph?",
+        "answer_type": "fill_in",
+        "correct_answer": 360
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Histogram as Table or Graph",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "HIS_1",
+        "question_text": "What does the height of a bar in a histogram represent?",
+        "answer_type": "choose_1",
+        "options": ["Range", "Frequency", "Mean", "Median"],
+        "correct_answer": "Frequency"
+      },
+      {
+        "question_id": "HIS_2",
+        "question_text": "What type of data is best represented by a histogram?",
+        "answer_type": "choose_1",
+        "options": ["Categorical", "Continuous", "Text", "Boolean"],
+        "correct_answer": "Continuous"
+      },
+      {
+        "question_id": "HIS_3",
+        "question_text": "Do histograms have gaps between bars?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "No"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Number Line",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "NL_1",
+        "question_text": "Which number is to the right of 3 on a number line?",
+        "answer_type": "choose_1",
+        "options": ["2", "1", "4", "-1"],
+        "correct_answer": "4"
+      },
+      {
+        "question_id": "NL_2",
+        "question_text": "Where are negative numbers located on a number line?",
+        "answer_type": "choose_1",
+        "options": ["Right of zero", "Left of zero", "Above zero", "Below zero"],
+        "correct_answer": "Left of zero"
+      },
+      {
+        "question_id": "NL_3",
+        "question_text": "What is the midpoint between 2 and 6?",
+        "answer_type": "fill_in",
+        "correct_answer": 4
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Scatter Plot",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "SP_1",
+        "question_text": "What does each point in a scatter plot represent?",
+        "answer_type": "choose_1",
+        "options": ["A category", "A data pair", "A frequency", "A range"],
+        "correct_answer": "A data pair"
+      },
+      {
+        "question_id": "SP_2",
+        "question_text": "What kind of relationship shows points increasing from left to right?",
+        "answer_type": "choose_1",
+        "options": ["Negative", "Positive", "No correlation", "Random"],
+        "correct_answer": "Positive"
+      },
+      {
+        "question_id": "SP_3",
+        "question_text": "What does a scattered pattern with no trend indicate?",
+        "answer_type": "choose_1",
+        "options": ["Strong correlation", "Weak correlation", "No correlation", "Positive slope"],
+        "correct_answer": "No correlation"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Stem and Leaf Plot",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "SL_1",
+        "question_text": "What does the stem represent in a stem-and-leaf plot?",
+        "answer_type": "choose_1",
+        "options": ["Last digit", "First digit(s)", "Frequency", "Range"],
+        "correct_answer": "First digit(s)"
+      },
+      {
+        "question_id": "SL_2",
+        "question_text": "What does the leaf represent?",
+        "answer_type": "choose_1",
+        "options": ["Tens", "Hundreds", "Last digit", "Mean"],
+        "correct_answer": "Last digit"
+      },
+      {
+        "question_id": "SL_3",
+        "question_text": "Does a stem-and-leaf plot preserve original data values?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Mean",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "MEAN_1",
+        "question_text": "Find the mean of 2, 4, 6, 8.",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      },
+      {
+        "question_id": "MEAN_2",
+        "question_text": "How do you calculate the mean?",
+        "answer_type": "choose_1",
+        "options": ["Multiply values", "Add and divide by count", "Find the middle", "Find the most common"],
+        "correct_answer": "Add and divide by count"
+      },
+      {
+        "question_id": "MEAN_3",
+        "question_text": "What is the mean of 10, 10, and 20?",
+        "answer_type": "fill_in",
+        "correct_answer": 13.33
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Median",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "MED_1",
+        "question_text": "What is the median of 3, 5, 7?",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      },
+      {
+        "question_id": "MED_2",
+        "question_text": "What must you do first to find the median?",
+        "answer_type": "choose_1",
+        "options": ["Add numbers", "Sort the data", "Multiply values", "Find frequency"],
+        "correct_answer": "Sort the data"
+      },
+      {
+        "question_id": "MED_3",
+        "question_text": "What is the median of 2, 4, 6, 8?",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Table",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "TAB_1",
+        "question_text": "What information is shown in a data table?",
+        "answer_type": "choose_1",
+        "options": ["Pictures only", "Organized data in rows and columns", "Random numbers", "Graphs"],
+        "correct_answer": "Organized data in rows and columns"
+      },
+      {
+        "question_id": "TAB_2",
+        "question_text": "How many rows are in a table with 5 entries?",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      },
+      {
+        "question_id": "TAB_3",
+        "question_text": "What is usually written at the top of a table?",
+        "answer_type": "choose_1",
+        "options": ["Title", "Median", "Range", "Answer"],
+        "correct_answer": "Title"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Venn Diagram",
+    "category": "Logic and Sets",
+    "questions": [
+      {
+        "question_id": "VENN_1",
+        "question_text": "What does the overlapping region in a Venn diagram represent?",
+        "answer_type": "choose_1",
+        "options": ["Union", "Intersection", "Difference", "Complement"],
+        "correct_answer": "Intersection"
+      },
+      {
+        "question_id": "VENN_2",
+        "question_text": "A Venn diagram is mainly used to show:",
+        "answer_type": "choose_1",
+        "options": ["Relationships between sets", "Order of numbers", "Graphs", "Angles"],
+        "correct_answer": "Relationships between sets"
+      },
+      {
+        "question_id": "VENN_3",
+        "question_text": "If one set has 3 elements and another has 4 with 1 common, how many are in the union?",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Mode",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "MODE_1",
+        "question_text": "What is the mode of 1, 2, 2, 4, 5?",
+        "answer_type": "fill_in",
+        "correct_answer": 2
+      },
+      {
+        "question_id": "MODE_2",
+        "question_text": "The mode is the value that appears:",
+        "answer_type": "choose_1",
+        "options": ["Least often", "Most often", "In the middle", "At the end"],
+        "correct_answer": "Most often"
+      },
+      {
+        "question_id": "MODE_3",
+        "question_text": "Can a data set have no mode?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Range",
+    "category": "Data Handling & Statistics",
+    "questions": [
+      {
+        "question_id": "RANGE_1",
+        "question_text": "Find the range of 3, 7, 10, 2.",
+        "answer_type": "fill_in",
+        "correct_answer": 8
+      },
+      {
+        "question_id": "RANGE_2",
+        "question_text": "Range is calculated by:",
+        "answer_type": "choose_1",
+        "options": ["Adding values", "Highest minus lowest", "Finding average", "Counting numbers"],
+        "correct_answer": "Highest minus lowest"
+      },
+      {
+        "question_id": "RANGE_3",
+        "question_text": "What is the range of 5, 5, 5?",
+        "answer_type": "fill_in",
+        "correct_answer": 0
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Counting Methods",
+    "category": "Probability",
+    "questions": [
+      {
+        "question_id": "COUNT_1",
+        "question_text": "How many ways can you select 1 item from 6 items?",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      },
+      {
+        "question_id": "COUNT_2",
+        "question_text": "Which method is used when order matters?",
+        "answer_type": "choose_1",
+        "options": ["Combination", "Permutation", "Probability", "Ratio"],
+        "correct_answer": "Permutation"
+      },
+      {
+        "question_id": "COUNT_3",
+        "question_text": "Which method is used when order does not matter?",
+        "answer_type": "choose_1",
+        "options": ["Permutation", "Combination", "Division", "Addition"],
+        "correct_answer": "Combination"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Probability of a Single Event",
+    "category": "Probability",
+    "questions": [
+      {
+        "question_id": "PROB1_1",
+        "question_text": "What is the probability of rolling a 1 on a fair die?",
+        "answer_type": "fill_in",
+        "correct_answer": 0.16
+      },
+      {
+        "question_id": "PROB1_2",
+        "question_text": "Probability is equal to:",
+        "answer_type": "choose_1",
+        "options": ["Favorable / total outcomes", "Total / favorable outcomes", "Difference", "Sum"],
+        "correct_answer": "Favorable / total outcomes"
+      },
+      {
+        "question_id": "PROB1_3",
+        "question_text": "What is the probability of tails when flipping a fair coin?",
+        "answer_type": "fill_in",
+        "correct_answer": 0.5
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Probability of Two Distinct Events",
+    "category": "Probability",
+    "questions": [
+      {
+        "question_id": "PROB2_1",
+        "question_text": "What is the probability of two heads when flipping a coin twice?",
+        "answer_type": "fill_in",
+        "correct_answer": 0.25
+      },
+      {
+        "question_id": "PROB2_2",
+        "question_text": "For independent events, probabilities are:",
+        "answer_type": "choose_1",
+        "options": ["Added", "Multiplied", "Subtracted", "Divided"],
+        "correct_answer": "Multiplied"
+      },
+      {
+        "question_id": "PROB2_3",
+        "question_text": "What is the probability of rolling a 2 and then a 3?",
+        "answer_type": "fill_in",
+        "correct_answer": 0.0278
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Interior Angles Triangle",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "TRI_1",
+        "question_text": "What is the sum of interior angles of a triangle?",
+        "answer_type": "fill_in",
+        "correct_answer": 180
+      },
+      {
+        "question_id": "TRI_2",
+        "question_text": "If two angles are 40° and 70°, what is the third angle?",
+        "answer_type": "fill_in",
+        "correct_answer": 70
+      },
+      {
+        "question_id": "TRI_3",
+        "question_text": "Triangle interior angles always add up to:",
+        "answer_type": "choose_1",
+        "options": ["90°", "180°", "270°", "360°"],
+        "correct_answer": "180°"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Interior Angles Figures with More than 3 Sides",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "POLY_1",
+        "question_text": "What is the sum of interior angles of a quadrilateral?",
+        "answer_type": "fill_in",
+        "correct_answer": 360
+      },
+      {
+        "question_id": "POLY_2",
+        "question_text": "How many sides does a hexagon have?",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      },
+      {
+        "question_id": "POLY_3",
+        "question_text": "Which formula gives the sum of interior angles of an n-sided polygon?",
+        "answer_type": "choose_1",
+        "options": ["(n−2)×180°", "n×180°", "n×360°", "(n+2)×180°"],
+        "correct_answer": "(n−2)×180°"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Congruence",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "CONG_1",
+        "question_text": "Congruent figures have the same:",
+        "answer_type": "choose_1",
+        "options": ["Area only", "Shape only", "Size and shape", "Perimeter only"],
+        "correct_answer": "Size and shape"
+      },
+      {
+        "question_id": "CONG_2",
+        "question_text": "Are two triangles with equal corresponding sides congruent?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question_id": "CONG_3",
+        "question_text": "Do congruent figures always have equal angles?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Complementary and Supplementary Angles",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "CS_1",
+        "question_text": "What is the sum of complementary angles?",
+        "answer_type": "fill_in",
+        "correct_answer": 90
+      },
+      {
+        "question_id": "CS_2",
+        "question_text": "What is the sum of supplementary angles?",
+        "answer_type": "fill_in",
+        "correct_answer": 180
+      },
+      {
+        "question_id": "CS_3",
+        "question_text": "If one angle is 50°, what is its complementary angle?",
+        "answer_type": "fill_in",
+        "correct_answer": 40
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Angles on Parallel Lines Cut by a Transversal",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "TRANS_1",
+        "question_text": "Corresponding angles formed by a transversal are:",
+        "answer_type": "choose_1",
+        "options": ["Equal", "Supplementary", "Random", "Complementary"],
+        "correct_answer": "Equal"
+      },
+      {
+        "question_id": "TRANS_2",
+        "question_text": "Alternate interior angles are:",
+        "answer_type": "choose_1",
+        "options": ["Equal", "Unequal", "Adjacent", "Vertical"],
+        "correct_answer": "Equal"
+      },
+      {
+        "question_id": "TRANS_3",
+        "question_text": "If one angle is 120°, what is its corresponding angle?",
+        "answer_type": "fill_in",
+        "correct_answer": 120
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Pythagorean Theorem",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "PYTH_1",
+        "question_text": "What is the Pythagorean theorem?",
+        "answer_type": "choose_1",
+        "options": ["a²+b²=c²", "a+b=c", "a²−b²=c²", "ab=c"],
+        "correct_answer": "a²+b²=c²"
+      },
+      {
+        "question_id": "PYTH_2",
+        "question_text": "Find the hypotenuse if the legs are 6 and 8.",
+        "answer_type": "fill_in",
+        "correct_answer": 10
+      },
+      {
+        "question_id": "PYTH_3",
+        "question_text": "The Pythagorean theorem applies to which triangle?",
+        "answer_type": "choose_1",
+        "options": ["Right", "Acute", "Obtuse", "Scalene"],
+        "correct_answer": "Right"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Nets of 3D Figures",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "NET_1",
+        "question_text": "A net is a:",
+        "answer_type": "choose_1",
+        "options": ["3D shape", "Flat pattern of a solid", "Graph", "Angle"],
+        "correct_answer": "Flat pattern of a solid"
+      },
+      {
+        "question_id": "NET_2",
+        "question_text": "How many faces does a cube have?",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      },
+      {
+        "question_id": "NET_3",
+        "question_text": "Which solid has a net made of rectangles and circles?",
+        "answer_type": "choose_1",
+        "options": ["Cube", "Cylinder", "Cone", "Pyramid"],
+        "correct_answer": "Cylinder"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Area of a Circle",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "AC_1",
+        "question_text": "What is the formula for the area of a circle?",
+        "answer_type": "choose_1",
+        "options": ["πr²", "2πr", "r²", "πd"],
+        "correct_answer": "πr²"
+      },
+      {
+        "question_id": "AC_2",
+        "question_text": "Find the area of a circle with radius 7 cm (use π = 22/7).",
+        "answer_type": "fill_in",
+        "correct_answer": 154
+      },
+      {
+        "question_id": "AC_3",
+        "question_text": "If the radius of a circle doubles, the area becomes:",
+        "answer_type": "choose_1",
+        "options": ["2 times", "3 times", "4 times", "8 times"],
+        "correct_answer": "4 times"
+      }
+    ]
+  },
+  {
+    "skill_name": "Circumference",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "CIRC_1",
+        "question_text": "What is the formula for circumference of a circle?",
+        "answer_type": "choose_1",
+        "options": ["πr²", "2πr", "r²", "πd²"],
+        "correct_answer": "2πr"
+      },
+      {
+        "question_id": "CIRC_2",
+        "question_text": "Find the circumference of a circle with diameter 14 cm (π = 22/7).",
+        "answer_type": "fill_in",
+        "correct_answer": 44
+      },
+      {
+        "question_id": "CIRC_3",
+        "question_text": "Circumference is best described as:",
+        "answer_type": "choose_1",
+        "options": [
+          "Area inside a circle",
+          "Distance around a circle",
+          "Radius of a circle",
+          "Diameter of a circle"
+        ],
+        "correct_answer": "Distance around a circle"
+      }
+    ]
+  },
+  {
+    "skill_name": "Perimeter of a Polygon",
+    "category": "Geometry",
+    "questions": [
+      {
+        "question_id": "PERI_1",
+        "question_text": "How is the perimeter of a polygon calculated?",
+        "answer_type": "choose_1",
+        "options": [
+          "Multiply all sides",
+          "Add all side lengths",
+          "Find the area",
+          "Divide sides by 2"
+        ],
+        "correct_answer": "Add all side lengths"
+      },
+      {
+        "question_id": "PERI_2",
+        "question_text": "Find the perimeter of a rectangle with sides 8 cm and 5 cm.",
+        "answer_type": "fill_in",
+        "correct_answer": 26
+      },
+      {
+        "question_id": "PERI_3",
+        "question_text": "Which shape always has all sides equal?",
+        "answer_type": "choose_1",
+        "options": ["Rectangle", "Scalene triangle", "Square", "Trapezoid"],
+        "correct_answer": "Square"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Algebraic Simplification",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "AS_1",
+        "question_text": "Simplify: 3x + 2x",
+        "answer_type": "fill_in",
+        "correct_answer": "5x"
+      },
+      {
+        "question_id": "AS_2",
+        "question_text": "Simplify: 4(x + 3)",
+        "answer_type": "fill_in",
+        "correct_answer": "4x + 12"
+      },
+      {
+        "question_id": "AS_3",
+        "question_text": "Which expression is equivalent to 2x + x?",
+        "answer_type": "choose_1",
+        "options": ["2x", "3x", "x²", "x + 2"],
+        "correct_answer": "3x"
+      }
+    ]
+  },
+  {
+    "skill_name": "Algebraic Solving",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "ALG_SOL_1",
+        "question_text": "Solve: x + 5 = 12",
+        "answer_type": "fill_in",
+        "correct_answer": 7
+      },
+      {
+        "question_id": "ALG_SOL_2",
+        "question_text": "Solve: 3x = 18",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      },
+      {
+        "question_id": "ALG_SOL_3",
+        "question_text": "What is the first step to solve 2x + 4 = 10?",
+        "answer_type": "choose_1",
+        "options": [
+          "Divide by 2",
+          "Subtract 4 from both sides",
+          "Add 4 to both sides",
+          "Multiply by 2"
+        ],
+        "correct_answer": "Subtract 4 from both sides"
+      }
+    ]
+  },
+  {
+    "skill_name": "Choose an Equation from Given Information",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "CE_1",
+        "question_text": "Which equation represents '5 more than a number x is 12'?",
+        "answer_type": "choose_1",
+        "options": ["x - 5 = 12", "5x = 12", "x + 5 = 12", "x / 5 = 12"],
+        "correct_answer": "x + 5 = 12"
+      },
+      {
+        "question_id": "CE_2",
+        "question_text": "Which equation represents 'twice a number is 14'?",
+        "answer_type": "choose_1",
+        "options": ["x + 2 = 14", "2x = 14", "x / 2 = 14", "x - 2 = 14"],
+        "correct_answer": "2x = 14"
+      },
+      {
+        "question_id": "CE_3",
+        "question_text": "Write an equation for 'a number decreased by 3 equals 10'.",
+        "answer_type": "fill_in",
+        "correct_answer": "x - 3 = 10"
+      }
+    ]
+  },
+  {
+    "skill_name": "Linear Equations",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "LE_1",
+        "question_text": "Which of the following is a linear equation?",
+        "answer_type": "choose_1",
+        "options": ["x² = 4", "2x + 3 = 7", "xy = 5", "x³ = 1"],
+        "correct_answer": "2x + 3 = 7"
+      },
+      {
+        "question_id": "LE_2",
+        "question_text": "Solve: 2x + 3 = 11",
+        "answer_type": "fill_in",
+        "correct_answer": 4
+      },
+      {
+        "question_id": "LE_3",
+        "question_text": "A linear equation has a highest power of the variable equal to:",
+        "answer_type": "choose_1",
+        "options": ["0", "1", "2", "3"],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "skill_name": "Equation Solving Two or Fewer Steps",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "EQ2_1",
+        "question_text": "Solve: x - 6 = 9",
+        "answer_type": "fill_in",
+        "correct_answer": 15
+      },
+      {
+        "question_id": "EQ2_2",
+        "question_text": "Solve: 5x = 25",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      },
+      {
+        "question_id": "EQ2_3",
+        "question_text": "How many steps are needed to solve x + 3 = 7?",
+        "answer_type": "choose_1",
+        "options": ["1", "2", "3", "4"],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "skill_name": "Equation Solving More Than Two Steps",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "EQM_1",
+        "question_text": "Solve: 2x + 5 = 17",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      },
+      {
+        "question_id": "EQM_2",
+        "question_text": "Solve: 3x - 4 = 11",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      },
+      {
+        "question_id": "EQM_3",
+        "question_text": "What should be done first to solve 4x + 7 = 19?",
+        "answer_type": "choose_1",
+        "options": [
+          "Divide by 4",
+          "Subtract 7",
+          "Add 7",
+          "Multiply by 4"
+        ],
+        "correct_answer": "Subtract 7"
+      }
+    ]
+  },
+  {
+    "skill_name": "Solving for a Variable",
+    "category": "Algebra",
+    "questions": [
+      {
+        "question_id": "SV_1",
+        "question_text": "Solve for x: x / 4 = 6",
+        "answer_type": "fill_in",
+        "correct_answer": 24
+      },
+      {
+        "question_id": "SV_2",
+        "question_text": "Solve for y: y + 9 = 15",
+        "answer_type": "fill_in",
+        "correct_answer": 6
+      },
+      {
+        "question_id": "SV_3",
+        "question_text": "What operation isolates the variable in x + 5 = 10?",
+        "answer_type": "choose_1",
+        "options": ["Addition", "Subtraction", "Multiplication", "Division"],
+        "correct_answer": "Subtraction"
+      }
+    ]
+  },
+
+  {
+    "skill_name": "Number Line",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "NL_1",
+        "question_text": "Which number is farthest to the right on a number line?",
+        "answer_type": "choose_1",
+        "options": ["-3", "0", "2", "-1"],
+        "correct_answer": "2"
+      },
+      {
+        "question_id": "NL_2",
+        "question_text": "What number is exactly between 2 and 6 on a number line?",
+        "answer_type": "fill_in",
+        "correct_answer": 4
+      },
+      {
+        "question_id": "NL_3",
+        "question_text": "Where is -5 located compared to 0 on a number line?",
+        "answer_type": "choose_1",
+        "options": ["To the right", "At the same point", "To the left", "Above"],
+        "correct_answer": "To the left"
+      }
+    ]
+  },
+  {
+    "skill_name": "Absolute Value",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "AV_1",
+        "question_text": "What is the absolute value of -7?",
+        "answer_type": "fill_in",
+        "correct_answer": 7
+      },
+      {
+        "question_id": "AV_2",
+        "question_text": "Absolute value represents:",
+        "answer_type": "choose_1",
+        "options": [
+          "Distance from zero",
+          "A negative number",
+          "A fraction",
+          "A variable"
+        ],
+        "correct_answer": "Distance from zero"
+      },
+      {
+        "question_id": "AV_3",
+        "question_text": "Which number has an absolute value of 5?",
+        "answer_type": "choose_1",
+        "options": ["-5", "5", "Both -5 and 5", "0"],
+        "correct_answer": "Both -5 and 5"
+      }
+    ]
+  },
+  {
+    "skill_name": "Ordering Integers",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "OI_1",
+        "question_text": "Which is greatest?",
+        "answer_type": "choose_1",
+        "options": ["-3", "-1", "-7", "-5"],
+        "correct_answer": "-1"
+      },
+      {
+        "question_id": "OI_2",
+        "question_text": "Order from least to greatest: -2, 4, -6",
+        "answer_type": "fill_in",
+        "correct_answer": "-6, -2, 4"
+      },
+      {
+        "question_id": "OI_3",
+        "question_text": "Which integer is closest to zero?",
+        "answer_type": "choose_1",
+        "options": ["-5", "3", "-1", "6"],
+        "correct_answer": "-1"
+      }
+    ]
+  },
+  {
+    "skill_name": "Ordering Positive Decimals",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "OPD_1",
+        "question_text": "Which is greatest?",
+        "answer_type": "choose_1",
+        "options": ["0.4", "0.25", "0.75", "0.5"],
+        "correct_answer": "0.75"
+      },
+      {
+        "question_id": "OPD_2",
+        "question_text": "Order from least to greatest: 0.3, 0.08, 0.5",
+        "answer_type": "fill_in",
+        "correct_answer": "0.08, 0.3, 0.5"
+      },
+      {
+        "question_id": "OPD_3",
+        "question_text": "Which decimal is closest to 1?",
+        "answer_type": "choose_1",
+        "options": ["0.91", "0.85", "0.72", "0.65"],
+        "correct_answer": "0.91"
+      }
+    ]
+  },
+  {
+    "skill_name": "Ordering Fractions",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "OF_1",
+        "question_text": "Which fraction is greatest?",
+        "answer_type": "choose_1",
+        "options": ["1/4", "3/4", "2/3", "1/2"],
+        "correct_answer": "3/4"
+      },
+      {
+        "question_id": "OF_2",
+        "question_text": "Order from least to greatest: 1/2, 1/3, 3/4",
+        "answer_type": "fill_in",
+        "correct_answer": "1/3, 1/2, 3/4"
+      },
+      {
+        "question_id": "OF_3",
+        "question_text": "Which fraction is closest to 1?",
+        "answer_type": "choose_1",
+        "options": ["5/6", "2/3", "3/5", "1/4"],
+        "correct_answer": "5/6"
+      }
+    ]
+  },
+  {
+    "skill_name": "Rounding",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "RND_1",
+        "question_text": "Round 4.6 to the nearest whole number.",
+        "answer_type": "fill_in",
+        "correct_answer": 5
+      },
+      {
+        "question_id": "RND_2",
+        "question_text": "Round 23 to the nearest ten.",
+        "answer_type": "fill_in",
+        "correct_answer": 20
+      },
+      {
+        "question_id": "RND_3",
+        "question_text": "When rounding, which digit determines rounding up or down?",
+        "answer_type": "choose_1",
+        "options": [
+          "The digit being rounded",
+          "The digit to the right",
+          "The digit to the left",
+          "The last digit"
+        ],
+        "correct_answer": "The digit to the right"
+      }
+    ]
+  },
+  {
+    "skill_name": "Prime Number",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "PN_1",
+        "question_text": "Which of the following is a prime number?",
+        "answer_type": "choose_1",
+        "options": ["9", "15", "7", "21"],
+        "correct_answer": "7"
+      },
+      {
+        "question_id": "PN_2",
+        "question_text": "How many factors does a prime number have?",
+        "answer_type": "fill_in",
+        "correct_answer": 2
+      },
+      {
+        "question_id": "PN_3",
+        "question_text": "Is 1 a prime number?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "No"
+      }
+    ]
+  },
+  {
+    "skill_name": "Divisibility Rules",
+    "category": "Number Sense",
+    "questions": [
+      {
+        "question_id": "DR_1",
+        "question_text": "A number is divisible by 2 if:",
+        "answer_type": "choose_1",
+        "options": [
+          "It ends in 5",
+          "It ends in an even digit",
+          "The digits add to 3",
+          "It ends in 0"
+        ],
+        "correct_answer": "It ends in an even digit"
+      },
+      {
+        "question_id": "DR_2",
+        "question_text": "Is 45 divisible by 9?",
+        "answer_type": "choose_1",
+        "options": ["Yes", "No"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question_id": "DR_3",
+        "question_text": "Which number is divisible by 5?",
+        "answer_type": "choose_1",
+        "options": ["42", "37", "60", "13"],
+        "correct_answer": "60"
+      }
+    ]
+  }
+]
+
